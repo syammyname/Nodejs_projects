@@ -2,7 +2,7 @@ var Model = require('../models');
 var assert = require('assert');
 
 
-//var needValueofSubParams = "data2.J_abc.A_|0|.vale";
+//var needValueofSubParams = "data2.J_abc.A_|0|.vale"; //
 //var inputJson =  JSON.parse('{"hello": "world", "data": [ {"array1" : "value1"}, 2, 3 ], "data2" : {"abc" : [ {"vale" : "an"}]} }');
 
 //getValueFromJson(needValueofSubParams,inputJson);
